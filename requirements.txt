@@ -1,3 +1,11 @@
 langchain
+langchain-core
 langchain-openai
+langchain-anthropic
 langgraph>0.2.27
+langchain-community
+langgraph-checkpoint-sqlite
+
+tavily-python
+
+beautifulsoup4
